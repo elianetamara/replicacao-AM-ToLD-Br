@@ -4,7 +4,8 @@ Repository for ToLD-Br: a dataset with tweets in Brazilian Portuguese annotated 
 ## Dataset
 * ToLD-BR.csv - Each column has a value from 0 to 3 representing the number of times this example got flagged as toxic.
 * ToLD-BR_alpha.csv - Annotations are not aggregated for each class, so values are either 0 or 1 and each class has 3 columns.
-
+* Alternatively, you can load the dataset using HuggingFace's Dataset library. See the [dataset card](https://huggingface.co/datasets/JAugusto97/told-br) for details.
+  
 **If you want access to the full dataset with demographic information for each annotator or the tweet IDs collected for this paper, contact us.**
 
 ## Citing ToLD-Br
