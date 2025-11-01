@@ -4,6 +4,7 @@
         "precision_macro": 0.36477187461317534,
         "recall_macro": 0.6020121674808437,
         "f1_macro": 0.44631500079324266,
+        "hamming_loss": 0.08293650793650793,
         "confusion_matrix_per_class": [
             [
                 [
@@ -72,6 +73,7 @@
         "precision_macro": 0.4330304157587997,
         "recall_macro": 0.0944142968005402,
         "f1_macro": 0.14026783592459527,
+        "hamming_loss": 0.0761904761904762,
         "confusion_matrix_per_class": [
             [
                 [
@@ -140,6 +142,7 @@
         "precision_macro": 0.2911382871462778,
         "recall_macro": 0.5024873661145426,
         "f1_macro": 0.35121154564656715,
+        "hamming_loss": 0.10126984126984127,
         "confusion_matrix_per_class": [
             [
                 [
@@ -208,6 +211,7 @@
         "precision_macro": 0.5234661101573833,
         "recall_macro": 0.2935829046387509,
         "f1_macro": 0.3535711337559264,
+        "hamming_loss": 0.07035714285714285,
         "confusion_matrix_per_class": [
             [
                 [
@@ -276,6 +280,7 @@
         "precision_macro": 0.6540816453480209,
         "recall_macro": 0.1303312259060873,
         "f1_macro": 0.21368620808286834,
+        "hamming_loss": 0.08531746031746032,
         "confusion_matrix_per_class": [
             [
                 [
@@ -344,6 +349,7 @@
         "precision_macro": 0.6873048317248812,
         "recall_macro": 0.3032233699364479,
         "f1_macro": 0.394595673962809,
+        "hamming_loss": 0.06916666666666667,
         "confusion_matrix_per_class": [
             [
                 [
